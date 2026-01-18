@@ -4,10 +4,7 @@ This repository contains a modular MATLAB simulation suite for a multi-jointed r
 
 ## 🚀 Quick Start
 
-To simulate the entire integrated leg system, run the master script:
-```matlab
-run('Leg.m')
-```
+To simulate the entire integrated leg system, enter ```run('Leg.m')``` in the MATLAB Command Window or press the green Run button. 
 
 
 Run Leg.m to simulate the whole system
