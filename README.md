@@ -1,6 +1,6 @@
 # Mechanical-Humanoid-Leg-Simulations
 
-This repository contains a modular MATLAB simulation suite for a multi-jointed robotic leg. The project focuses on the kinematic modelling, 3D visualization, and design optimization of three primary joint assemblies: a 3-DOF Spherical Parallel Manipulator (Hip), a Crossed Four-Bar Linkage (Knee), and a Worm-Driven Linkage (Ankle).
+This repository contains a modular MATLAB simulation suite for a multi-jointed robotic leg. The project focuses on the kinematic modelling, 3D visualization, and design optimization of three primary joint assemblies: a 3-DOF Coaxial Spherical Parallel Manipulator (Hip), a 1-DoF Crossed Four-Bar Linkage (Knee), and a 1-DoF Worm-Driven Four-Bar Linkage (Ankle).
 
 ## 🛠️ Setup 
 1. To run these simulations, ensure you have MATLAB Optimization Toolbox (required for fsolve in the SPM calculations).
